@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dec3764-2bd6-4ef7-8a21-bf0bc79872a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="netty" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="savedDocuments">
+              <list>
+                <AnonymousApexSavedDocument>
+                  <option name="name" value="Anonymous Apex 1" />
+                </AnonymousApexSavedDocument>
+              </list>
+            </option>
+          </AnonymousApexSettings>
+        </option>
+        <option name="soqlQuerySettings">
+          <SoqlQuerySettings>
+            <option name="savedDocuments">
+              <list>
+                <SoqlQuerySavedDocument>
+                  <option name="name" value="SOQL Query 1" />
+                </SoqlQuerySavedDocument>
+              </list>
+            </option>
+          </SoqlQuerySettings>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.0\repository" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1btIvF51xYe3K0wcUTiF5P2joPs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/netty-all-4.1.20.Final-javadoc.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36158192" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yls.netty.dubborpc.netty" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\netty\code\src\main\java\com\yls\netty" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientBootStrap">
+    <configuration name="ClientBootStrap" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yls.netty.dubborpc.consumer.ClientBootStrap" />
+      <module name="netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yls.netty.dubborpc.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yls.netty.protocoltcp.MyClient" />
+      <module name="netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yls.netty.protocoltcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yls.netty.protocoltcp.MyServer" />
+      <module name="netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yls.netty.protocoltcp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerBootStrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yls.netty.dubborpc.provider.ServerBootStrap" />
+      <module name="netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yls.netty.dubborpc.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yls.netty.dubborpc.netty.main" />
+      <module name="netty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yls.netty.dubborpc.publicClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MyServer" />
+      <item itemvalue="Application.MyClient" />
+      <item itemvalue="Application.ServerBootStrap" />
+      <item itemvalue="Application.ClientBootStrap" />
+      <item itemvalue="Application.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientBootStrap" />
+        <item itemvalue="Application.ServerBootStrap" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.MyClient" />
+        <item itemvalue="Application.MyServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dec3764-2bd6-4ef7-8a21-bf0bc79872a4" name="Default Changelist" comment="" />
+      <created>1589445191587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589445191587</updated>
+      <workItem from="1589445196447" duration="14049000" />
+      <workItem from="1589506959186" duration="30776000" />
+      <workItem from="1589596751908" duration="23863000" />
+      <workItem from="1589687716692" duration="20408000" />
+      <workItem from="1589943180469" duration="23831000" />
+      <workItem from="1590029443282" duration="28331000" />
+      <workItem from="1590133569606" duration="1539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="356" y="72" key="#Project_Structure" timestamp="1589611551302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589611551302" />
+    <state x="218" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590042025155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="218" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590042025155" />
+    <state x="784" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1590054120080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="784" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590054120080" />
+    <state x="619" y="122" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1589609833005">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="619" y="122" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1589609833005" />
+    <state x="543" y="272" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589518736998">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="272" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1589518736998" />
+    <state x="519" y="166" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1589609731871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="519" y="166" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589609731871" />
+    <state x="522" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589632656682">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1589632656682" />
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1589609808866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589609808866" />
+    <state width="1491" height="182" key="GridCell.Tab.0.bottom" timestamp="1590067816132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="182" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590067816132" />
+    <state width="1491" height="182" key="GridCell.Tab.0.center" timestamp="1590067816132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="182" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590067816132" />
+    <state width="1491" height="182" key="GridCell.Tab.0.left" timestamp="1590067816132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="182" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590067816132" />
+    <state width="1491" height="182" key="GridCell.Tab.0.right" timestamp="1590067816132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="182" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590067816132" />
+    <state x="269" y="0" key="SettingsEditor" timestamp="1589706068513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="269" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589706068513" />
+    <state width="498" height="452" key="SwitcherDM" timestamp="1589522578873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="452" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1589522578873" />
+    <state x="443" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1590140274634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="443" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590140274634" />
+    <state x="502" y="318" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1589608576767">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="502" y="318" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1589608576767" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1589610545257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1589610545257" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1589697673915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589697673915" />
+    <state x="427" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590065774974">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="427" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590065774974" />
+  </component>
+</project>
