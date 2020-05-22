@@ -30,7 +30,7 @@ public class BioClient {
                 //接收数据
                 while (true) {
                     int read = inputStream.read(bytes);
-                    if(read==-1) break;
+                    if (read == -1) break;
                     System.out.println("接收数据成功");
                     System.out.println(new String(bytes, 0, read));
                 }

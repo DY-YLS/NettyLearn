@@ -17,6 +17,7 @@ import io.netty.handler.timeout.IdleStateHandler;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * 服务端
  * netty 实现 websocket 全双工通信
  */
 public class websocket {

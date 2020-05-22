@@ -1,6 +1,5 @@
 package com.yls.netty.tcp;
 
-import com.yls.netty.simple.NettyClientHandler;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;

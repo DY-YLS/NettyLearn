@@ -38,7 +38,7 @@ public class GroupChatClient {
                     });
             final ChannelFuture sync = bootstrap.connect(ip, port).sync();
             final Scanner scanner = new Scanner(System.in);
-            while (scanner.hasNext()){
+            while (scanner.hasNext()) {
                 final String s = scanner.nextLine();
                 sync.channel().writeAndFlush(s);
             }
@@ -48,10 +48,9 @@ public class GroupChatClient {
         } finally {
             group.shutdownGracefully();
         }
-
     }
 
     public static void main(String[] args) {
-        new GroupChatClient("127.0.0.1",7000).run();
+        new GroupChatClient("127.0.0.1", 7000).run();
     }
 }

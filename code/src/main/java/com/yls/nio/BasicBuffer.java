@@ -1,9 +1,6 @@
 package com.yls.nio;
 
-import java.nio.ByteBuffer;
 import java.nio.IntBuffer;
-import java.nio.channels.SocketChannel;
-import java.util.Arrays;
 
 /**
  * 测试 nio 中 buffer的使用

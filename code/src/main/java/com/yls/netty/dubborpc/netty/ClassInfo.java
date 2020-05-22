@@ -2,6 +2,7 @@ package com.yls.netty.dubborpc.netty;
 
 /**
  * rpc调用时传输类的信息
+ * 客户端与服务端之间通信，传递信息的媒介
  */
 public class ClassInfo {
     //自定义name，一般一个接口有多个实现类的时候使用自定义

@@ -1,18 +1,13 @@
 package com.yls.nio.groupChat;
 
-import com.sun.xml.internal.ws.api.server.WSEndpoint;
-
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
-import java.nio.channels.SelectableChannel;
 import java.nio.channels.SelectionKey;
 import java.nio.channels.Selector;
 import java.nio.channels.SocketChannel;
 import java.util.Iterator;
 import java.util.Scanner;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
 
 public class GroupChatClient {
     private String ip = "127.0.0.1";

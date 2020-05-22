@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dec3764-2bd6-4ef7-8a21-bf0bc79872a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yls/bio/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yls/nio/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/bio/BioClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/bio/BioClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/bio/BioServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/bio/BioServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/netty/dubborpc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/netty/dubborpc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/netty/dubborpc/netty/ClassInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/netty/dubborpc/netty/ClassInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/netty/dubborpc/netty/MyMessageDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/netty/dubborpc/netty/MyMessageDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/netty/dubborpc/netty/MyMessageEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/netty/dubborpc/netty/MyMessageEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/netty/dubborpc/netty/NettyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/netty/dubborpc/netty/NettyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/netty/groupchat/GroupChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/netty/groupchat/GroupChatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/netty/groupchat/ServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/netty/groupchat/ServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/netty/http/TestServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/netty/http/TestServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/netty/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/netty/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/netty/tcp/TcpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/netty/tcp/TcpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/netty/websocket/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/netty/websocket/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/netty/websocket/websocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/netty/websocket/websocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/nio/BasicBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/nio/BasicBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/nio/NioClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/nio/NioClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/nio/ScatteringAndGathering.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/nio/ScatteringAndGathering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/nio/groupChat/GroupChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/nio/groupChat/GroupChatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yls/nio/groupChat/GroupChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yls/nio/groupChat/GroupChatServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +119,7 @@
       <recent name="com.yls.netty.dubborpc.netty" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\netty\code\src\main\java\com\yls\bio" />
       <recent name="D:\netty\code\src\main\java\com\yls\netty" />
     </key>
   </component>
@@ -202,7 +223,7 @@
       <workItem from="1589943180469" duration="23831000" />
       <workItem from="1590029443282" duration="28331000" />
       <workItem from="1590133569606" duration="1677000" />
-      <workItem from="1590145804285" duration="594000" />
+      <workItem from="1590145804285" duration="8861000" />
     </task>
     <task id="LOCAL-00001" summary="修改netty版本号">
       <created>1590146116831</created>
@@ -211,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590146116831</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="修改netty版本号">
+      <created>1590146411336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590146411336</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +266,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="619" y="122" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1589609833005" />
+    <state x="418" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590161955724">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="418" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1590161955724" />
     <state x="543" y="272" width="441" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589518736998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -250,10 +282,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="522" y="272" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1589632656682" />
-    <state x="371" y="3" key="CommitChangelistDialog2" timestamp="1590146115298">
+    <state x="371" y="3" key="CommitChangelistDialog2" timestamp="1590146410235">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="371" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590146115298" />
+    <state x="371" y="3" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590146410235" />
     <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1589609808866">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -302,9 +334,23 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589697673915" />
-    <state x="427" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590065774974">
+    <state x="427" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590162530684">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="427" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590065774974" />
+    <state x="427" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590162530684" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yls/nio/groupChat/GroupChatClient.java</url>
+          <line>18</line>
+          <properties class="com.yls.nio.groupChat.GroupChatClient" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

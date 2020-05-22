@@ -1,11 +1,11 @@
 package com.yls.netty.dubborpc.netty;
 
-import com.yls.netty.protocoltcp.Message;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.MessageToByteEncoder;
 
 /**
+ * 编码器
  * MyMessageEncoder  MyMessageDecoder解决粘包拆包问题
  */
 public class MyMessageEncoder extends MessageToByteEncoder<String> {
